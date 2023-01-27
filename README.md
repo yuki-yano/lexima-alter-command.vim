@@ -15,7 +15,7 @@ When entering the Ex command, the cmdline input is replaced by the second argume
 " Simple usage
 LeximaAlterCommand ee e!
 
-" With atom ( Read `:h \%[` )
+" With atom ( Read `:h \%[]` )
 LeximaAlterCommand cap\%[ture] Capture
 LeximaAlterCommand r\%[un]     QuickRun
 ```
